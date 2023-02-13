@@ -1,10 +1,9 @@
 # VBA-Challenge
 
-Hi, it took me more than 16 hours to write this code. Please gib me gud grade :)
+Hi, it took me a lot of hours to write this code.
 
-Love, Sabrina <3
+There should be 3 different Subs in the VBA script, but they should run altogether once you play the first Sub.
 
-On a serious note, I took 3 screenshots of the results on the masterfile and there should be a separate file
-for my code.
+The bonus part theoretically should work, but I never got it to show up on my file.
 
-I didn't know what else to write here.
+Lastly, I've also included 3 separate screenshots of the results from the masterfile. They should all be correct :)
